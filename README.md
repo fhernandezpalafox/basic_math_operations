@@ -1,2 +1,13 @@
 # basic_math_operations
-Paquete de operaciones básicas
+
+[![pub package](https://img.shields.io/pub/v/basic_math_operations.svg)](https://pub.dev/packages/basic_math_operations)
+
+Un paquete Flutter que provee funciones básicas para realizar operaciones matemáticas, como suma, resta, multiplicación y división.
+
+## Instalación
+
+Añade `basic_math_operations` a tus dependencias en `pubspec.yaml`:
+
+```yaml
+dependencies:
+  basic_math_operations: ^0.0.1
